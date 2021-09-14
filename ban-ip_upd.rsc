@@ -12,4 +12,5 @@ add list=banned_users address=185.170.213.226
 add list=banned_users address=37.49.230.56
 add list=banned_users address=173.249.5.201
 add list=banned_users address=143.198.119.193
+add list=banned_users address=23.148.145.90
 :log info "banned 14 ip-addresses, file created 11.08.2021"
